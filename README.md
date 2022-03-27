@@ -27,7 +27,7 @@ Livepeer for live streams
 
 ## Demo
 
-- [Home Page](https://6119c859fed150c8471f90fd--petgrams.netlify.app/)
+- [Home Page]()
   ![Main Page](https://raw.githubusercontent.com/electrone901/petgram/main/src/images/cover.png) <br> <br>
 
 # Getting Started
