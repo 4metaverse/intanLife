@@ -25,10 +25,6 @@ Livepeer for live streams
 
 ### `React Js, Material-ui, Web3` React Js for the frontend, Material-ui and Web3 to connect to blockchain.
 
-## Demo
-
-- [Home Page]()
-  ![Main Page](https://raw.githubusercontent.com/electrone901/petgram/main/src/images/cover.png) <br> <br>
 
 # Getting Started
 
